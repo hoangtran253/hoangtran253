@@ -1,4 +1,6 @@
-## :wave: Hello! Welcome to My GitHub Profile!
+## :wave: Hello! I'm DHoang!
+## Welcome to my profile! I’m excited to share my projects with you. 
+![Wave GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFvZzdtY3dtNjJwNDN6Yzl3ejQyYjR2MG9lY21iOWRuZm00aTExOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehTzFBjQEyh8lQAn8b/giphy.gif)
 ## [:sparkles: About Me](https://www.facebook.com/d.hoangg3404)
 <!--
 **Duc Hoang** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
